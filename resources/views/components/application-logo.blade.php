@@ -1,0 +1,1 @@
+<img src="\image\FotoFoshi Logo.png" alt="Logo" style="height: 21.5px; width:135.2px">

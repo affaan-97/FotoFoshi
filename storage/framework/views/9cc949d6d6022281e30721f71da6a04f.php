@@ -1,0 +1,1 @@
+<img src="\image\FotoFoshi Logo.png" alt="Logo" style="height: 21.5px; width:135.2px"><?php /**PATH C:\xampp\htdocs\FotoFoshi\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
